@@ -1,0 +1,11 @@
+{
+  "name": "stuff",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "type": "module",
+  "main": "src/index.js",
+  "devDependencies": {
+    "prettier": "3.2.5",
+    "typescript": "5.4.2"
+  }
+}
